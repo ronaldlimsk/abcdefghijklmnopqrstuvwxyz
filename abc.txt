@@ -1,2 +1,6 @@
 the sky is blue
+<<<<<<< HEAD
 the sky is green and beautiful
+=======
+the sky is blue
+>>>>>>> parent of df86aa9 (git revert merge conflict example commit 2)
